@@ -42,7 +42,6 @@ int main(){
                 for(int k=0; k<p; k++){
                     res[i][j] += a[i][k]*b[k][j];
                 }
-
             }
         }
         cout<<endl;
