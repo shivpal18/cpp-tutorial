@@ -6,6 +6,7 @@ int main(){
     int m;
     cout<<"Enter rows of matrix : ";
     cin>>m;
+    
     int n;
     cout<<"Enter cols of matrix : ";
     cin>>n;
